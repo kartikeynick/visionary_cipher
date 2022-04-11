@@ -3,7 +3,7 @@ This code helps in cracking the Visionary cipher text to the plain text using ka
 In addition to that it does the friquency analysis.
 
 
-Here is some ciphertext that was produced by a simple substitution cipher that:
+The Cipher text is:
 
 OBRGXIMYAZZAWCATBNMUYYHAZNVGFCXPVVSIJSVLKIFAVGBIECAZSBWGRGRQWUCHMMOCYE
 FLGQQNKFSHQMGYALNKCIJQVEKVWXNFOYFYQBESGOYTXMAYTXSISNBPMSGOJBKFWRUTTMLS
